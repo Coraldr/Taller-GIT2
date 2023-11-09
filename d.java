@@ -3,4 +3,7 @@ public Personaje {
     public Personaje (String nombre) {
         this.nombre = nombre;
     }
+    public void setNombre(String valor) {
+        this.nombre = valor;
+    }
 }
